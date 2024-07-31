@@ -2,7 +2,7 @@
 
 ## About
 
-Am email dataset will be analyzed to reveal trends and patterns in internal communication. This analysis will help companies identify key areas for improvement and enhance communication efficiency.
+An email dataset will be analyzed to reveal trends and patterns in internal communication. This analysis will help companies identify key areas for improvement and enhance communication efficiency.
 
 - 📈 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝗱 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻: Uncover common topics and sentiments to enhance message clarity and relevance. 
 - 🔎 𝗜𝗱𝗲𝗻𝘁𝗶𝗳𝘆𝗶𝗻𝗴 𝗞𝗲𝘆 𝗣𝗹𝗮𝘆𝗲𝗿𝘀: Identify internal influencers who drive communication and collaboration within the team or organization. 
